@@ -1,13 +1,13 @@
-<p align="center">
-  <img src="assets/cover.jpg" alt="Deep Learning & Neural Networks Banner" width="100%">
-</p>
-
 # Neural Networks and Deep Learning (NNDL)
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Gym](https://img.shields.io/badge/OpenAI_Gym-0081A5?style=flat&logo=openai&logoColor=white)](https://gymlibrary.dev/)
 [![Optuna](https://img.shields.io/badge/Optuna-274D82?style=flat)](https://optuna.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<p align="center">
+  <img src="assets/cover.jpg" alt="Deep Learning & Neural Networks Banner" width="100%">
+</p>
 
 A curated collection of deep learning architectures, empirical experiments, and analytical reports developed for the **Neural Networks and Deep Learning** (NNDL) course. The project spans three major paradigms: **Supervised Learning** (Regression & CNN Classification), **Generative Modeling** (Autoencoders, VAEs, GANs), and **Deep Reinforcement Learning** (DQN).
 
