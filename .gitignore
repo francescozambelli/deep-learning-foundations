@@ -1,2 +1,26 @@
-/Aut_FT.pth
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Model checkpoints & data caches
+*.pth
+*.pt
 /classifier_data
+/Aut_FT.pth
+
+# OS specific
+.DS_Store
+Thumbs.db
